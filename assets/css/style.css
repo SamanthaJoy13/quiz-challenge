@@ -1,5 +1,16 @@
+* {
+    background-color: #f5f5f5;
+    font-family: 'sans-serif';
+    color: #212529;
+    text-align: center;
+}
+
 .timer {
     position: fixed;
     top: 10px;
     right: 10px;
+}
+
+.answerBtn {
+    color: rgb(134, 0, 252);
 }
